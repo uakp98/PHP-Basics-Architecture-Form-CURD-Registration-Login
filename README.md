@@ -5,4 +5,5 @@ PHP is a Hypertext Preprocessor is a general-purpose scripting programming langu
 # MySql DB connection
 # Projects
 
-# you have to install XAMPP or WAMP server to Run a PHP Script With our local server..
+# Note:
+you have to install XAMPP or WAMP server to Run a PHP Script With our local server..
